@@ -57,7 +57,8 @@ Identifies regions contributing the highest revenue.
 
 # 🚀 How to Run the Project
 
-Follow these steps to run the Customer Predictive Value Modelling project on your local machine:
+Follow these steps to run the Customer Predictive Value Modelling project on your local machine
+
 1️⃣ Clone the Repository
 
 To get started, clone this repository:
