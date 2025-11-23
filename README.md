@@ -60,10 +60,10 @@ Identifies regions contributing the highest revenue.
 Follow these steps to run the Customer Predictive Value Modelling project on your local machine:
 
 1️⃣ Clone the Repository
-'''bash
+```bash
 git clone <your-repository-link>
 cd <your-project-folder>
-'''
+```
 
 Replace <your-repository-link> and <your-project-folder> with your actual GitHub details.
 
