@@ -55,6 +55,15 @@ Identifies regions contributing the highest revenue.
 
 <img width="1184" height="450" alt="newplot" src="https://github.com/user-attachments/assets/01d71832-e8fb-4e0b-a947-3cc391870e81" />
 
+
+# 📦 Dependencies Used
+
+- `NumPy` — for numerical operations
+- `Pandas` — for data cleaning and analysis
+- `Datetime` — for handling date and time values
+- `Plotly Express` — for quick interactive visualizations
+- `Plotly Graph Objects` — for fully customized charts
+
 # 🚀 How to Run the Project
 
 Follow these steps to run the Customer Predictive Value Modelling project on your local machine
@@ -133,9 +142,9 @@ You can now explore:
 - Clean visual insights
 
 # 📝 File Details
-- notebook.ipynb:- Contains the complete data analysis workflow — from loading and cleaning the dataset to generating visual insights.
-- online_retail_II.zip:- Compressed version of the dataset used in the project.
-- README.md:- Documentation describing the project setup, purpose, and execution steps.
-- insights_summary.pdf:- A downloadable PDF that includes all key insights, findings, and conclusions from the analysis in a clean, readable format.
+- `notebook.ipynb`:- Contains the complete data analysis workflow — from loading and cleaning the dataset to generating visual insights.
+- `online_retail_II.zip`:- Compressed version of the dataset used in the project.
+- `README.md`:- Documentation describing the project setup, purpose, and execution steps.
+- `insights_summary.pdf`:- A downloadable PDF that includes all key insights, findings, and conclusions from the analysis in a clean, readable format.
 
 <p align="center"> <strong> Built by Sandeep Mehta </strong> </p> <p align="center"> <a href="https://github.com/sandeepmehta08"> <img src="https://img.shields.io/badge/GitHub-sandeepmehta08-black?logo=github&style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/sandeep-mehta-25bb99231/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/> </a> </p>
