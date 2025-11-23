@@ -58,57 +58,70 @@ Identifies regions contributing the highest revenue.
 # 🚀 How to Run the Project
 
 Follow these steps to run the Customer Predictive Value Modelling project on your local machine:
-
 1️⃣ Clone the Repository
+
+To get started, clone this repository:
 ```bash
 git clone <your-repository-link>
+```
+Navigate to the project directory:
+```bash
 cd <your-project-folder>
 ```
+Replace the placeholders with your actual GitHub details.
 
-Replace <your-repository-link> and <your-project-folder> with your actual GitHub details.
+2️⃣ Set Up a Virtual Environment
 
-2️⃣ Install Required Libraries
-Create a Python environment (optional but recommended):
-
-'''python -m venv venv'''
+Create a virtual environment:
+```bash
+python -m venv venv
+```
 
 Activate it:
 
-Windows
-'''venv\Scripts\activate'''
+Windows:
+```bash
+venv\Scripts\activate
+```
 
-Mac/Linux
-'''source venv/bin/activate'''
+macOS/Linux:
+```bash
+source venv/bin/activate
+```
 
+Install required libraries:
+```bash
+pip install numpy pandas plotly
+```
 
-Now install the required Python libraries:
-'''pip install numpy pandas plotly'''
+3️⃣ Download the Dataset
 
-(Plotly includes both Express and Graph Objects automatically.)
+Place the dataset inside a folder named data/:
+```bash
+data/
+    online_retail_II.csv
+```
+If your dataset is zipped, extract it before running the notebook.
 
-# 3️⃣ Download the Dataset
-
-Make sure the dataset (Online Retail II) is downloaded and placed in the project folder.
-If your file is zipped, extract it first.
-You can also upload the dataset folder like this:
-
-'''data/
-    online_retail_II.csv'''
-
-# 4️⃣ Open the Notebook
+4️⃣ Open the Notebook
 
 Launch Jupyter Notebook or VS Code:
-'''jupyter notebook'''
+```bash
+jupyter notebook
+```
 
 Then open:
-'''Customer_Predictive_Value_Modelling.ipynb'''
+```bash
+Customer_Predictive_Value_Modelling.ipynb
+```
 
 5️⃣ Run All Cells
 
-Once the notebook is open:
-- Click Run All
-- Or use Shift + Enter to run each cell step-by-step
-Your visualizations (Plotly bar charts & graphs) will appear inside the notebook.
+Inside the notebook:
+- Click Run All, or
+- Press Shift + Enter to run cells step-by-step
+
+Your Plotly visualizations will appear inside the notebook.
 
 6️⃣ You're Done!
 
@@ -116,7 +129,7 @@ You can now explore:
 - Top-selling products
 - Top-performing countries
 - Basic customer purchase patterns
-- Sales insights through interactive charts
+- Clean visual insights
 
 # 📝 File Details
 - notebook.ipynb:- Contains the complete data analysis workflow — from loading and cleaning the dataset to generating visual insights.
@@ -124,5 +137,4 @@ You can now explore:
 - README.md:- Documentation describing the project setup, purpose, and execution steps.
 - insights_summary.pdf:- A downloadable PDF that includes all key insights, findings, and conclusions from the analysis in a clean, readable format.
 
-Built by Sandeep Mehta
-<p align="center"> <a href="https://github.com/sandeepmehta08"> <img src="https://img.shields.io/badge/GitHub-sandeepmehta08-black?logo=github&style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/sandeep-mehta-25bb99231/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/> </a> </p>
+<p align="center"> <strong> Built by Sandeep Mehta </strong> </p> <p align="center"> <a href="https://github.com/sandeepmehta08"> <img src="https://img.shields.io/badge/GitHub-sandeepmehta08-black?logo=github&style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/sandeep-mehta-25bb99231/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/> </a> </p>
