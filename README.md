@@ -1,9 +1,9 @@
-# 📊 Customer Predictive Value Modelling
+#  Customer Predictive Value Modelling
 
 This project focuses on analyzing customer purchasing patterns from the [Online Retail II dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data). The goal is to explore sales behavior across products, customers, and countries, and extract meaningful insights through data cleaning, exploration, and visualization.
 
 
-# 📁 About the Project
+#  About the Project
 
 Objective
 
@@ -23,7 +23,7 @@ This project uses the [Online Retail II](https://www.kaggle.com/datasets/mashlyn
 
 The dataset spans December 2009 to 2011.
 
-# 🚀 Features
+#  Features
 ✔ Data Cleaning
 
 - Converted invoice dates to datetime format
@@ -44,7 +44,7 @@ The dataset spans December 2009 to 2011.
 - Bar charts for country-wise performance
 - Simple trend observations
 
-# 📸 Demo (Sample Visuals)
+#  Demo (Sample Visuals)
 
 Top 10 Selling Products
 
@@ -56,7 +56,7 @@ Identifies regions contributing the highest revenue.
 <img width="1184" height="450" alt="newplot" src="https://github.com/user-attachments/assets/01d71832-e8fb-4e0b-a947-3cc391870e81" />
 
 
-# 📦 Dependencies Used
+#  Dependencies Used
 
 - `NumPy` — for numerical operations
 - `Pandas` — for data cleaning and analysis
@@ -64,7 +64,7 @@ Identifies regions contributing the highest revenue.
 - `Plotly Express` — for quick interactive visualizations
 - `Plotly Graph Objects` — for fully customized charts
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 Follow these steps to run the Customer Predictive Value Modelling project on your local machine
 
@@ -141,7 +141,7 @@ You can now explore:
 - Basic customer purchase patterns
 - Clean visual insights
 
-# 📝 File Details
+#  File Details
 - `notebook.ipynb`:- Contains the complete data analysis workflow — from loading and cleaning the dataset to generating visual insights.
 - `online_retail_II.zip`:- Compressed version of the dataset used in the project.
 - `README.md`:- Documentation describing the project setup, purpose, and execution steps.
